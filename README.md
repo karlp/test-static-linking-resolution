@@ -1,3 +1,7 @@
+# TL;DR
+It's linker ordering.  The entire .a gets thrown out if nothing needed it when it was encoutned in the command line order.
+
+
 # WAT
 I can't place methods in a static library and have them be found?  What am I missing?
 
